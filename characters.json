@@ -1,0 +1,26 @@
+{
+    "characters": [
+        {
+            "name": "Bronya",
+            "thumbnail": "images/Bronya/thumbnail.png",
+            "images": [
+                "images/Bronya/bronya_back.png",
+                "images/Bronya/bronya_face.png",
+                "images/Bronya/bronya_front.png",
+                "images/Bronya/bronya_left.png",
+                "images/Bronya/bronya_right.png"
+            ]
+        },
+        {
+            "name": "Stelle",
+            "thumbnail": "images/Stelle/thumbnail.png",
+            "images": [
+                "images/Stelle/stelle_back.png",
+                "images/Stelle/stelle_face.png",
+                "images/Stelle/stelle_front.png",
+                "images/Stelle/stelle_left.png",
+                "images/Stelle/stelle_right.png"
+            ]
+        }
+    ]
+}
