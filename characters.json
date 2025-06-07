@@ -12,6 +12,16 @@
             ]
         },
         {
+            "name": "RuanMei",
+            "thumbnail": "images/RuanMei/thumbnail.png",
+            "images": [
+                "images/RuanMei/mei_back.png",
+                "images/RuanMei/mei_front.png",
+                "images/RuanMei/mei_left.png",
+                "images/RuanMei/mei_right.png"
+            ]
+        },
+        {
             "name": "Stelle",
             "thumbnail": "images/Stelle/thumbnail.png",
             "images": [
