@@ -12,13 +12,47 @@
             ]
         },
         {
+            "name": "Cipher",
+            "thumbnail": "images/Cipher/thumbnail.png",
+            "images": [
+                "images/Cipher/cipher_back.png",
+                "images/Cipher/cipher_face.png",
+                "images/Cipher/cipher_front.png",
+                "images/Cipher/cipher_left.png",
+                "images/Cipher/cipher_right.png"
+            ]
+        },
+        {
+            "name": "March 7th",
+            "thumbnail": "images/March 7th/thumbnail.png",
+            "images": [
+                "images/March 7th/march_back.png",
+                "images/March 7th/march_face.png",
+                "images/March 7th/march_front.png",
+                "images/March 7th/march_left.png",
+                "images/March 7th/march_right.png"
+            ]
+        },
+        {
             "name": "RuanMei",
             "thumbnail": "images/RuanMei/thumbnail.png",
             "images": [
                 "images/RuanMei/mei_back.png",
+                "images/RuanMei/mei_face.png",
                 "images/RuanMei/mei_front.png",
                 "images/RuanMei/mei_left.png",
                 "images/RuanMei/mei_right.png"
+            ]
+        },
+        {
+            "name": "Seele",
+            "thumbnail": "images/Seele/thumbnail.png",
+            "images": [
+                "images/Seele/seele_back.png",
+                "images/Seele/seele_front.png",
+                "images/Seele/seele_left.png",
+                "images/Seele/seele_right.png",
+                "images/Seele/seele__face.png"
             ]
         },
         {
