@@ -1,6 +1,17 @@
 {
     "characters": [
         {
+            "name": "Asta",
+            "thumbnail": "images/Asta/thumbnail.png",
+            "images": [
+                "images/Asta/asta_face.png",
+                "images/Asta/asta_front.png",
+                "images/Asta/asta_left.png",
+                "images/Asta/asta_right.png",
+                "images/Asta/asta__back.png"
+            ]
+        },
+        {
             "name": "Bronya",
             "thumbnail": "images/Bronya/thumbnail.png",
             "images": [
