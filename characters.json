@@ -34,6 +34,17 @@
             ]
         },
         {
+            "name": "Herta",
+            "thumbnail": "images/Herta/thumbnail.png",
+            "images": [
+                "images/Herta/herta_back.png",
+                "images/Herta/herta_face.png",
+                "images/Herta/herta_front.png",
+                "images/Herta/herta_left.png",
+                "images/Herta/herta_right.png"
+            ]
+        },
+        {
             "name": "March7th",
             "thumbnail": "images/March7th/thumbnail.png",
             "images": [
